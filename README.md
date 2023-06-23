@@ -1,4 +1,4 @@
-# controlaai
+# CONTROLA - AI - APLICATIVO DE CONTROLE DE BOLETOS
 
 A new Flutter project.
 
